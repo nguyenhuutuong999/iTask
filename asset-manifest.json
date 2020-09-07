@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iTask/static/css/main.b13e0ec3.chunk.css",
+    "main.js": "/iTask/static/js/main.e6c12117.chunk.js",
+    "main.js.map": "/iTask/static/js/main.e6c12117.chunk.js.map",
+    "runtime-main.js": "/iTask/static/js/runtime-main.75ebf910.js",
+    "runtime-main.js.map": "/iTask/static/js/runtime-main.75ebf910.js.map",
+    "static/js/2.bc9a0d39.chunk.js": "/iTask/static/js/2.bc9a0d39.chunk.js",
+    "static/js/2.bc9a0d39.chunk.js.map": "/iTask/static/js/2.bc9a0d39.chunk.js.map",
+    "index.html": "/iTask/index.html",
+    "precache-manifest.478d806bd440ac041700384df47cc5b2.js": "/iTask/precache-manifest.478d806bd440ac041700384df47cc5b2.js",
+    "service-worker.js": "/iTask/service-worker.js",
+    "static/css/main.b13e0ec3.chunk.css.map": "/iTask/static/css/main.b13e0ec3.chunk.css.map",
+    "static/js/2.bc9a0d39.chunk.js.LICENSE.txt": "/iTask/static/js/2.bc9a0d39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75ebf910.js",
+    "static/js/2.bc9a0d39.chunk.js",
+    "static/css/main.b13e0ec3.chunk.css",
+    "static/js/main.e6c12117.chunk.js"
+  ]
+}
