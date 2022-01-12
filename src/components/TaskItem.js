@@ -63,7 +63,7 @@ const mapDispatchToProps = (dispatch, props) => {
   return {
     onUpdateStatus: (id) => {
       dispatch(actions.updateStatus(id));
-    }, 
+    },   
     onDeleteItem: (id) => {
       dispatch(actions.deleteItem(id));
     },
